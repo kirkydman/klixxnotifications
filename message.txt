@@ -1,20 +1,16 @@
-6
+7
 ||| 
                                                  
-                                                
-     Happy new year,
+Hello KLiXXers,
 
-        
-        Welcome to the new KLiXX build. This is built with ease of navigation in mind. If you are new then it will be nice and
-        
-        easy for you to use (hopefully). If youre a KLiXX veteran then it will look slightly different being theres no sub-sections
-        
-        (well, not many) just sections. The sport has been removed from the main guide now and is in its own section, theres lots
-        
-        more options for sport. Also updating will be very different now, no more long ones just mini 1 min updates (phew!)
-        
-        Ive put in lots of little information boxes called "click me, read me" to help you along the way so click these when you
-        
-        see them (if need be). Im on the group every day if you need me from Midday onwards now and all day weekends, find me on 
-        
-        Klixx TV Facebook group. Good luck and give me some feed back good or bad. have a great 2017!!!! Team KLiXX xxx
+There is a Mini update available, I have added a proper Favourites section and tweaked 
+a couple of things. Please when you run the mini update can you press ok like it asks
+then press home and power off (even tho it doesnt tell you to do that). The mini update
+can be found in the Klixx update section and it will take 30 seconds to do.
+Im really happy with the way this build looks like its going now and the sports is going
+to be a big improvement in 2017. I'll be adding lots of nice little things this year so
+im very excited. Anyway run the update and as usual I am here on Facebook should you need
+me on KlixxTV Facebook group. My hours now are going to be 12 till late and all weekends.
+
+Many thanks. Kirk.
+    
