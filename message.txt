@@ -1,16 +1,16 @@
-7
+8
 ||| 
                                                  
-Hello KLiXXers,
+Hello KLiXXters,
 
-There is a Mini update available, I have added a proper Favourites section and tweaked 
-a couple of things. Please when you run the mini update can you press ok like it asks
-then press home and power off (even tho it doesnt tell you to do that). The mini update
-can be found in the Klixx update section and it will take 30 seconds to do.
-Im really happy with the way this build looks like its going now and the sports is going
-to be a big improvement in 2017. I'll be adding lots of nice little things this year so
-im very excited. Anyway run the update and as usual I am here on Facebook should you need
-me on KlixxTV Facebook group. My hours now are going to be 12 till late and all weekends.
-
+There is an update available, if youre seeing this message and everything is running
+ok then just go to the update section and run the normal update, then press ok at the
+end, then home then restart your box. If you are still getting the xmas intro you need to
+wipe your klixx and re-update (come to the group if you need help). When you restart your
+box again you will see this message again but this time it will have different buttons at
+the bottom, one will say "update box" the other will say "Already updated" obviously then
+Just press the "Already updated" one. The updates will then pop up automatically from now
+so that nobody ever misses an update again coz its a right pain when they do!
+Restart your router before you update it will make it quicker.
 Many thanks. Kirk.
     
