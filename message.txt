@@ -1,10 +1,16 @@
-9
+10
 ||| 
                                                  
-Hello KLiXXters,
-
+Hello KLiXXters,  -----------THIS TIME YOU CAN UPDATE-------------------
+There is an update available, if youre seeing this message and everything is running ok then 
+just go to the update section and run the normal update, then press ok at the end, then home 
+then restart your box. If you are still getting the xmas intro you need to wipe your klixx 
+and re-update (come to the group if you need help). When you restart your box again you
+ will see this message again but this time it will have different buttons at the bottom, one 
+will say "update box" the other will say "Dismiss" obviously then Just press the "Dismiss" 
+one. The updates will then pop up automatically from now so that nobody ever misses an 
+update again coz its a right pain when they do!
+Restart your router before you update it will make it quicker.
                            
-                           
-                                     Please ignore the last message telling you to update
 Many thanks. Kirk.
     
