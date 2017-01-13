@@ -1,16 +1,17 @@
-10
+11
 ||| 
                                                  
-Hello KLiXXters,  -----------THIS TIME YOU CAN UPDATE-------------------
-There is an update available, if youre seeing this message and everything is running ok then 
-just go to the update section and run the normal update, then press ok at the end, then home 
-then restart your box. If you are still getting the xmas intro you need to wipe your klixx 
-and re-update (come to the group if you need help). When you restart your box again you
- will see this message again but this time it will have different buttons at the bottom, one 
-will say "update box" the other will say "Dismiss" obviously then Just press the "Dismiss" 
-one. The updates will then pop up automatically from now so that nobody ever misses an 
-update again coz its a right pain when they do!
-Restart your router before you update it will make it quicker.
-                           
-Many thanks. Kirk.
+Hello KLiXXters, ----------------------------13/01/2017--------------------------------------
+There is a Mini-update available that will take 57 seconds to do so please dont dismiss this box as
+if you get behind on your updates it will cause you aggro in the future. Its very simple to do just
+click the update button attached to this box let it run and at the end press ok, then retun on your
+remote then restart your KLiXX by going to the "Power off KliXX" button underneath klixx updates or
+just holding down your power button, whatever! Ive added some more kids stuff for the temporary
+failure of cartoon Krazy, ive added some more IPTV in live TV section. Ive also added a little 
+cleaner that clears your cache and other bits for you automatically when you turn KLiXX on (you'll
+see it when you restart). Actually in hindsight when you power off go to the power off KLiXX button
+ive noticed some people getting disconnected from their wifi powering off like that. Anyway compet-
+ition tomorrow and prizes to be won, waheeeey!
+
+____________________________________-------Many thanks. Kirk.-----____________________________________
     
