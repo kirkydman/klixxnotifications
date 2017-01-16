@@ -1,17 +1,14 @@
-11
+12
 ||| 
                                                  
-Hello KLiXXters, ----------------------------13/01/2017--------------------------------------
-There is a Mini-update available that will take 57 seconds to do so please dont dismiss this box as
-if you get behind on your updates it will cause you aggro in the future. Its very simple to do just
-click the update button attached to this box let it run and at the end press ok, then retun on your
-remote then restart your KLiXX by going to the "Power off KliXX" button underneath klixx updates or
-just holding down your power button, whatever! Ive added some more kids stuff for the temporary
-failure of cartoon Krazy, ive added some more IPTV in live TV section. Ive also added a little 
-cleaner that clears your cache and other bits for you automatically when you turn KLiXX on (you'll
-see it when you restart). Actually in hindsight when you power off go to the power off KLiXX button
-ive noticed some people getting disconnected from their wifi powering off like that. Anyway compet-
-ition tomorrow and prizes to be won, waheeeey!
+Hello there,
 
-____________________________________-------Many thanks. Kirk.-----____________________________________
+There is a Mini update ready which will take 47 secs to do, just click on the update button at the
+bottom of this box, then press ok when its finished then restart your KLiXX. Please do not ignore
+these little updates as they are important.I have added a cleaning device now so that all your caches
+are cleared for you on startup including Exodus and Zen.
+
+Remember these little updates take me about 10 hrs to make and only 47 seconds for you to do.
+
+After this update you will have a power off klixx button in this dialogue box for next time, cheers.
     
