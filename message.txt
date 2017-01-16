@@ -1,7 +1,7 @@
-12
+13
 ||| 
                                                  
-Hello there,
+Hello there, --------if youve already seen this dismiss it 16/01/07---------------------
 
 There is a Mini update ready which will take 47 secs to do, just click on the update button at the
 bottom of this box, then press ok when its finished then restart your KLiXX. Please do not ignore
