@@ -1,14 +1,15 @@
-13
+14
 ||| 
                                                  
-Hello there, --------if youve already seen this dismiss it 16/01/07---------------------
+Hi there folks,                                                                     23/01/07
+There is a little update available that will take you 1 min to do so please press on the update
+button below let it run then press ok then Power off (the power off button should be in there
+for you now) I have brought back the yellow link in this version but theres a little twist. You
+have to go to their website and run a stream from there just for one second then it will be 
+activated in KLiXX for 24hrs, you can do it from your laptop or mobile as long as its on the same
+wi-fi, it might sound like a bit of a pain but its worth it. Not everyone will bother to do this
+so you know the streams wont be overloaded. Anyway please do the little update to version 3.1.2
+oh by the way those of you that dont know what the yellow link is, its in sport.
 
-There is a Mini update ready which will take 47 secs to do, just click on the update button at the
-bottom of this box, then press ok when its finished then restart your KLiXX. Please do not ignore
-these little updates as they are important.I have added a cleaning device now so that all your caches
-are cleared for you on startup including Exodus and Zen.
-
-Remember these little updates take me about 10 hrs to make and only 47 seconds for you to do.
-
-After this update you will have a power off klixx button in this dialogue box for next time, cheers.
+*****************REMEMBER TO RESTART YOUR ROUTERS REGULARLY********************* All the best.
     
