@@ -1,7 +1,7 @@
-14
+15
 ||| 
                                                  
-Hi there folks,                                                                     23/01/07
+Hi there folks,            JUST INCASE YOU MISSED IT--DISMISS IF YOUR ON 3.1.2            23/01/07
 There is a little update available that will take you 1 min to do so please press on the update
 button below let it run then press ok then Power off (the power off button should be in there
 for you now) I have brought back the yellow link in this version but theres a little twist. You
@@ -11,5 +11,6 @@ wi-fi, it might sound like a bit of a pain but its worth it. Not everyone will b
 so you know the streams wont be overloaded. Anyway please do the little update to version 3.1.2
 oh by the way those of you that dont know what the yellow link is, its in sport.
 
-*****************REMEMBER TO RESTART YOUR ROUTERS REGULARLY********************* All the best.
+*****************REMEMBER TO RESTART YOUR ROUTERS REGULARLY****************
+All the best.
     
