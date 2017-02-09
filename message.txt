@@ -1,15 +1,16 @@
-15
+16
 ||| 
                                                  
-Hi there folks,            JUST INCASE YOU MISSED IT--DISMISS IF YOUR ON 3.1.2            23/01/07
-There is a little update available that will take you 1 min to do so please press on the update
-button below let it run then press ok then Power off (the power off button should be in there
-for you now) I have brought back the yellow link in this version but theres a little twist. You
-have to go to their website and run a stream from there just for one second then it will be 
-activated in KLiXX for 24hrs, you can do it from your laptop or mobile as long as its on the same
-wi-fi, it might sound like a bit of a pain but its worth it. Not everyone will bother to do this
-so you know the streams wont be overloaded. Anyway please do the little update to version 3.1.2
-oh by the way those of you that dont know what the yellow link is, its in sport.
+Hi there folks,                                                                         08/02/2017
+After the big update the other day i realised that the navigation was still a bit buggy as in
+sometimes trying to open TV guide opens the main menu page etc, so theres a mini update attached
+to this that will fix that it will still be version 3.2.2.
+On another note if you have purchased your box or my app from anyone other than me, Chris Connors,
+Steve Connors, Paul and James (Brighton), Duncan (alcazares), Allan James, Dean Grayson or Chris
+in Tenerife then your probably watching a copied version in which case you'll be cut off soon and
+youve been ripped off, contact me if you think this has happened and i'll hook you up properly for
+free, im a genuine guy and i dont like to see anyone ripped off so contact me rather than get cut
+off. Its unfortunate that i have to even say this, anyway happy viewing as always.
 
 *****************REMEMBER TO RESTART YOUR ROUTERS REGULARLY****************
 All the best.
