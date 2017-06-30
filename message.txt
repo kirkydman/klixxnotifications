@@ -1,10 +1,10 @@
-30
+31
 ||| 
                                                  
 Hi folks, ive added another little update today so you can get terranium TV, this is a brill
 app, probably the best theres ever been. Its similar to showbox except its very remote control
 freindly so no mouse needed, in fact its 10x better than showbox, to get this on your box, mini
-update to 7.9.1 and go into maintenance and apps to download, then down load MX player, then 
+update to 3.7.1 and go into maintenance and apps to download, then down load MX player, then 
 Terrarium TV and just wait for 5 mins, then go to the button underneath that says go to file
 browser, at this point they may try and install themselves in which case press install, if not
 go to your download folder in file browser and install them, the whole process takes 5 mins.
