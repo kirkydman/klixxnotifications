@@ -1,10 +1,9 @@
 44
 ||| 
-03/10/2017
-
-PLEASE NOTE AS MOST OF YOU ARE ALREADY AWARE OUR FREEVIEW CHANNELS ON THE NORMAL GUIDE ARE 
-DOWN TEMPORARILY, PLEASE COME TO THE GROUP SO WE CAN HOOK YOU UP ON THE IPTV FOR A COUPLE OF
-DAYS UNTIL THEY ARE FIXED, SORRY FOR ANY INCONVENIENCE. THANK YOU.
+                                              05/10/17
+ There is an update to 8.1.5 please do a full update from klixx updates or do a fresh wipe
+ and update, fresh wipe DOES NOT mean restore your box to factory settings, please come to 
+ the group for assistance, instructions are in the pinned post, thanks
 
 
 
