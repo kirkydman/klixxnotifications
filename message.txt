@@ -1,18 +1,18 @@
-61
+63
 ||| 
                                            
-                                            01/03/18
-                                  ITV PLAYER IS BACK!!!!!!!
-       We are pleased to announc the return of BBC iplayer and ITV player, I had to do a
-       complete software re-build to get round the https that BBC and ITV are now using
-       but its all working again nicely but you need to download our new app, you need to
-       go into maintenance in klixx, then to the RED apps for downloading, in there look
-       for klixxnew click it and install it, if you dont have all this then you need to 
-       update klixx first by going along to klixx updates. Once you have downloaded and
-       installed klixxnew press open and it will update itself, this is so easy the app
-       literally installs and updates itself you just have to press a couple of buttons.
-       Once it as all done this app can be loacated in your APPS. If you are mega guide
-       you will need to log in and add channels etc, thank you.
+                                            16/03/18
+                                  THIS IS A KLIXX ANNOUNCEMENT
+       As most of you know there is a new klixx app, if you are new to klixx you will
+       probably already have it, its green thats the easiest way to tell, if you are
+       still on the old black and silver one i would consider moving over. Tutorials on
+       all things klixx can be found at www.tonkstv.com on our help page. We are now on 
+       version 2018.7, please do not hesitate to contact either me or Ross on the group
+       or by private message or phone if you have any problems. We have some new and 
+       interesting stuff coming up in the near future so were looking forward to that
+       but obviously we dont want to put the kiss of death on anything yet, so watch
+       this space, in the meantime HAPPY VIEWING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+       The KLiXX team.
        
                                           
                                            
